@@ -3,7 +3,8 @@ import time
 import keyboard as kb
 import os
 
-os.environ['DISPLAY'] = ':0'
+os.environ['DISPLAY'] = ':1'
+os.environ['XDG_RUNTIME_DIR'] = '/data/data/com.termux/files/usr/tmp'
 
 def click(x, y):
     pag.click(x, y)
