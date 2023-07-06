@@ -1,0 +1,10 @@
+keyboard
+MouseInfo
+PyAutoGUI
+PyGetWindow
+PyMsgBox
+pyperclip
+PyRect
+PyScreeze
+pytweening
+pywin32
