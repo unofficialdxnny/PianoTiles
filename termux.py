@@ -9,10 +9,10 @@ os.environ['XDG_RUNTIME_DIR'] = '/data/data/com.termux/files/usr/tmp'
 def click(x, y):
     pag.click(x, y)
 
-tile2_x, tile2_y = 665, 600
-tile3_x, tile3_y = 763, 600
-tile4_x, tile4_y = 861, 600
-tile1_x, tile1_y = 600, 600
+tile2_x, tile2_y = 162, 781
+tile3_x, tile3_y = 280, 781
+tile4_x, tile4_y = 395, 781
+tile1_x, tile1_y = 55, 781
 
 time.sleep(15)
 
