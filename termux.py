@@ -1,6 +1,9 @@
 import pyautogui as pag
 import time
 import keyboard as kb
+import os
+
+os.environ['DISPLAY'] = ':0'
 
 def click(x, y):
     pag.click(x, y)
